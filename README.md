@@ -20,3 +20,4 @@ To Implement two pipeline in AWS to categorise the Article/Conversation into 6 C
 ## Result
 
 Achieved 97.83% accuracy and 0.83 F1-score on RNN model.
+
